@@ -6,4 +6,4 @@ print(f'số {a} lớn hơn số b' if a > b else f'số {a} nhỏ hơn số {b}
 c = int(input)
 ###đankjákda
 #dkhjadkasdjl
-áhkdkashdkasjdksa
+#áhkdkashdkasjdksa
