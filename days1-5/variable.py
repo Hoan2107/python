@@ -9,3 +9,6 @@ print(list)
 
 list.insert(0, 1)
 print(list)
+
+list.index(1, 2)
+print(list)
